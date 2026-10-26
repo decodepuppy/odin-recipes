@@ -1,3 +1,3 @@
-# Odin's Recipies
+# Odin's Recipes
 
-This is a simple recipie website built as part of [Odin Project's Foundations](https://www.theodinproject.com/lessons/foundations-recipes)
+This is a simple recipe website built as part of [Odin Project's Foundations](https://www.theodinproject.com/lessons/foundations-recipes)
